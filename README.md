@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bernardo Luz</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
-
+<br/>
 
 - 🔭 I’m currently working on **Inngage**
 
