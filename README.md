@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Americas tech**
 
-- 💬 Ask me about **NodeJs, React, TypeScript, Golang, Express, Docker, Sequelize, SQL, MongoDB, etc...**
+- 💬 Ask me about **Golang, GORM, Mysql, PostgresSQL, Kubernetes, NodeJs, Docker, React, TypeScript, Express, Sequelize, SQL, MongoDB, etc...**
 
 - 📫 How to reach me **beluz.mario@gmail.com**
 
